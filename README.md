@@ -13,10 +13,10 @@ Tokpock is platform to create temporary smart contract wallets for users not on 
 
 ## Screenshots
 
-![Alt text](screenshots/screenshot1.jpg?raw=true "1")
+![Alt text](screenshots/screenshot1.png?raw=true "1")
 
-![Alt text](screenshots/screenshot2.jpg?raw=true "2")
+![Alt text](screenshots/screenshot2.png?raw=true "2")
 
-![Alt text](screenshots/screenshot3.jpg?raw=true "3")
+![Alt text](screenshots/screenshot3.png?raw=true "3")
 
-![Alt text](screenshots/screenshot4.jpg?raw=true "4")
+![Alt text](screenshots/screenshot4.png?raw=true "4")
